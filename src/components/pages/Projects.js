@@ -5,14 +5,15 @@ import workdayscheduleImg from '../../images/workdayschedule.jpg';
 import notetakingappImg from '../../images/notetakingapp.jpg';
 import javaquizImg from '../../images/javaquiz.jpg';
 import coderefractionImg from '../../images/coderefraction.jpg';
+import projectnumber03 from '../../images/project3.jpg';
 
 const projects = [
   {
     id: 1,
-    title: "Password Generator",
-    image: passwordGenieImg,
-    link: 'https://dinoarslanovic26.github.io/Brand-New-Password-Generator/',
-    github: 'https://github.com/dinoarslanovic26/Brand-New-Password-Generator'
+    title: "Culinary Companion - Group Project #3",
+    image: projectnumber03,
+    link: 'https://culinary-companion.herokuapp.com',
+    github: 'https://github.com/Jshigoodies/Culinary-Companion'
   },
   {
     id: 2,
